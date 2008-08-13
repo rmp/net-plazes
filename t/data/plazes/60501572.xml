@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plaze>
+  <address>K&#246;lblgasse 21</address>
+  <category>shop</category>
+  <city>Vienna</city>
+  <country_code>AT</country_code>
+  <created_at type="datetime">2008-08-11T10:14:05Z</created_at>
+  <id type="integer">60501572</id>
+  <name>Firma Singer</name>
+  <state></state>
+  <timezone>Europe/Vienna</timezone>
+  <updated_at type="datetime">2008-08-11T10:14:05Z</updated_at>
+  <zip_code>1030</zip_code>
+  <latitude type="float">48.1910060027879</latitude>
+  <longitude type="float">16.3888550066569</longitude>
+  <country>Austria</country>
+</plaze>

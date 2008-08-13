@@ -1,0 +1,13 @@
+MANIFEST
+README
+lib/Net/Plazes.pm
+lib/Net/Plazes/Base.pm
+lib/Net/Plazes/Plaze.pm
+lib/Net/Plazes/Presence.pm
+lib/Net/Plazes/User.pm
+t/00-critic.t
+t/00-distribution.t
+t/00-pod.t
+t/00-podcoverage.t
+Makefile.PL
+Build.PL
