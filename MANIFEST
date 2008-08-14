@@ -1,5 +1,6 @@
 Changes
 MANIFEST
+Net-Plazes-0.03.tar.gz
 README
 lib/Net/Plazes.pm
 lib/Net/Plazes/Activity.pm
@@ -17,6 +18,7 @@ t/data/plazes.xml
 t/data/plazes/60501572.xml
 t/data/users.xml
 t/data/users/263471.xml
+t/data/users/266/activities.xml
 t/plazes.t
 t/useragent.pm
 t/users.t
