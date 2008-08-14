@@ -29,7 +29,7 @@ __END__
 
 =head1 NAME
 
-Net::Plazes::Plaze
+Net::Plazes::Plaze - representation of remote resource http://plazes.net/plazes(.*)
 
 =head1 VERSION
 
@@ -46,6 +46,40 @@ $Revision$
 =head2 fields - list of accessors for resources of this type
 
  my @aFields = $oObj->fields();
+
+Accessors are:
+
+=over
+
+=item id
+
+=item address
+
+=item category
+
+=item city
+
+=item country_code
+
+=item created_at
+
+=item name
+
+=item state
+
+=item timezone
+
+=item updated_at
+
+=item zip_code
+
+=item latitude
+
+=item longitude
+
+=item country
+
+=back
 
 =head1 DIAGNOSTICS
 

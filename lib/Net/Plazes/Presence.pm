@@ -54,7 +54,7 @@ __END__
 
 =head1 NAME
 
-Net::Plazes::Presence
+Net::Plazes::Presence - representation of remote resource http://plazes.net/presence(.*)
 
 =head1 VERSION
 

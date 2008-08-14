@@ -29,7 +29,7 @@ __END__
 
 =head1 NAME
 
-Net::Plazes::User
+Net::Plazes::User - representation of remote resource http://plazes.net/users(.*)
 
 =head1 VERSION
 
