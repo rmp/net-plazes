@@ -6,7 +6,7 @@
 # Id:            $Id$
 # $HeadURL$
 #
-package Net::Plazes::Presence;
+package Net::Plazes::Activity;
 use strict;
 use warnings;
 use base qw(Net::Plazes::Base);
@@ -14,17 +14,17 @@ use Net::Plazes::User;
 use Net::Plazes::Plaze;
 use Carp;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 __PACKAGE__->mk_accessors(fields());
 __PACKAGE__->has_many();
 
 sub service {
-  return q[http://plazes.net/presences];
+  return q[http://plazes.com/activities];
 }
 
 sub fields {
-  return qw(id created_at device plaze_id scheduled_at status updated_at user_id);
+  return qw(id created_at device plaze_id scheduled_at status user_id);
 }
 
 sub process_dom {
@@ -90,7 +90,7 @@ __END__
 
 =head1 NAME
 
-Net::Plazes::Presence - representation of remote resource http://plazes.net/presence(.*)
+Net::Plazes::Activity - representation of remote resource http://plazes.com/presence(.*)
 
 =head1 VERSION
 

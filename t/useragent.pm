@@ -67,7 +67,7 @@ sub content {
   #########
   # try and auto-fetch out of the t/data/ folder
   #
-  my ($plpath)  = $self->{uri} =~ m{https?://plazes\.net(.*)$}mx;
+  my ($plpath)  = $self->{uri} =~ m{https?://plazes\.com(.*)$}mx;
   my $test_data = qq[t/data$plpath.xml];
 
   if(!-e $test_data) {

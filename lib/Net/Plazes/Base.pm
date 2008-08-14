@@ -17,7 +17,7 @@ use LWP::UserAgent;
 use XML::LibXML;
 use Lingua::EN::Inflect qw(PL);
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 __PACKAGE__->mk_accessors(fields());
 
@@ -70,7 +70,15 @@ sub process_dom {
   my ($self, $obj, $dom) = @_;
 
   for my $field ($self->fields()) {
-    $obj->{$field} = $dom->getElementsByTagName($field);
+    my $els = [$dom->getElementsByTagName($field)];
+    if($els->[0]) {
+      my $fc = $els->[0]->getFirstChild();
+      if($fc) {
+	$obj->{$field} = $fc->getData();
+      } else {
+	$obj->{$field} = q[];
+      }
+    }
   }
 
   return $obj;
@@ -99,7 +107,7 @@ sub has_many {
 
 sub get {
   my ($self, $field) = @_;
-  if($self->{$field}) {
+  if(defined $self->{$field}) {
     return $self->{$field};
   }
 
@@ -116,6 +124,9 @@ sub get {
 sub read { ## no critic (Subroutines::ProhibitBuiltinHomonyms)
   my $self     = shift;
   my $obj_uri  = sprintf q[%s/%s], $self->service(), $self->id();
+  if($obj_uri !~ /\.xml$/mx) {
+    $obj_uri .= q[.xml];
+  }
   my $req      = HTTP::Request->new('GET', $obj_uri, ['Accept' => 'text/xml']);
   my $response = $self->useragent->request($req);
 
@@ -128,7 +139,7 @@ sub read { ## no critic (Subroutines::ProhibitBuiltinHomonyms)
     $dom = $self->parser->parse_string($response->content());
 
   } or do {
-    croak q[Error parsing response] . $response->content();
+    croak q[Error parsing response] . $response->content(). qq[\nRequest was: $obj_uri];
   };
 
   $self->process_dom($self, $dom);
@@ -137,8 +148,13 @@ sub read { ## no critic (Subroutines::ProhibitBuiltinHomonyms)
 }
 
 sub list {
-  my $self     = shift;
-  my $obj_uri  = $self->service();
+  my ($self, $obj_uri) = @_;
+  $obj_uri   ||= $self->service();
+
+  if($obj_uri !~ /\.xml$/mx) {
+    $obj_uri .= q[.xml];
+  }
+
   my $req      = HTTP::Request->new('GET', $obj_uri, ['Accept' => 'text/xml']);
   my $response = $self->useragent->request($req);
 
@@ -147,7 +163,7 @@ sub list {
     $dom = $self->parser->parse_string($response->content());
     1;
   } or do {
-    croak q[Error parsing response: ] . $response->content();;
+    croak q[Error parsing response: ] . $response->content(). qq[\nRequest was: $obj_uri];
   };
 
   my $objs = [];

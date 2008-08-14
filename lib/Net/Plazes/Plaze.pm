@@ -11,17 +11,17 @@ use strict;
 use warnings;
 use base qw(Net::Plazes::Base);
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 __PACKAGE__->mk_accessors(fields());
 __PACKAGE__->has_many();
 
 sub service {
-  return q[http://plazes.net/plazes];
+  return q[http://plazes.com/plazes];
 }
 
 sub fields {
-  return qw(id address category city country_code created_at name state timezone updated_at zip_code latitude longitude country);
+  return qw(id address category city country_code has_free_wifi created_at link name state timezone updated_at zip_code latitude longitude country picture_url);
 }
 
 1;
@@ -29,7 +29,7 @@ __END__
 
 =head1 NAME
 
-Net::Plazes::Plaze - representation of remote resource http://plazes.net/plazes(.*)
+Net::Plazes::Plaze - representation of remote resource http://plazes.com/plazes(.*)
 
 =head1 VERSION
 
@@ -78,6 +78,12 @@ Accessors are:
 =item longitude
 
 =item country
+
+=item has_free_wifi
+
+=item link
+
+=item picture_url
 
 =back
 
