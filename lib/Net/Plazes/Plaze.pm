@@ -11,7 +11,7 @@ use strict;
 use warnings;
 use base qw(Net::Plazes::Base);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 __PACKAGE__->mk_accessors(fields());
 __PACKAGE__->has_many();

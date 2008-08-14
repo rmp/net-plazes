@@ -17,7 +17,7 @@ use LWP::UserAgent;
 use XML::LibXML;
 use Lingua::EN::Inflect qw(PL);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 __PACKAGE__->mk_accessors(fields());
 
