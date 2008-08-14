@@ -16,8 +16,8 @@ my $ua = t::useragent->new({
 
 {
   my $p = Net::Plazes::Plaze->new({
-				   usergent => $ua,
-				   id       => 60501572,
+				   useragent => $ua,
+				   id        => 60501572,
 				  });
   like($p->address(), qr/K.lblgasse\ 21/mx);
   is($p->category(), 'shop');
@@ -26,7 +26,7 @@ my $ua = t::useragent->new({
 
 {
   my $p = Net::Plazes::Plaze->new({
-				   usergent => $ua,
+				   useragent => $ua,
 				  });
   my $plazes = $p->plazes();
   isa_ok($plazes, 'ARRAY');

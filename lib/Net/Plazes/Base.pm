@@ -17,7 +17,7 @@ use LWP::UserAgent;
 use XML::LibXML;
 use Lingua::EN::Inflect qw(PL);
 
-our $VERSION = do { my ($r) = q$Revision: 2662 $ =~ /(\d+)/mx; $r; };
+our $VERSION = '0.01';
 
 __PACKAGE__->mk_accessors(fields());
 
@@ -126,8 +126,9 @@ sub read { ## no critic (Subroutines::ProhibitBuiltinHomonyms)
   my $dom;
   eval {
     $dom = $self->parser->parse_string($response->content());
+
   } or do {
-    croak q[Error parsing response];
+    croak q[Error parsing response] . $response->content();
   };
 
   $self->process_dom($self, $dom);
@@ -144,8 +145,9 @@ sub list {
   my $dom;
   eval {
     $dom = $self->parser->parse_string($response->content());
+    1;
   } or do {
-    croak q[Error parsing response];
+    croak q[Error parsing response: ] . $response->content();;
   };
 
   my $objs = [];

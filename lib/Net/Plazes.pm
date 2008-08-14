@@ -10,7 +10,7 @@ package Net::Plazes;
 use strict;
 use warnings;
 
-our $VERSION = do { my ($r) = q$Revision: 2662 $ =~ /(\d+)/mx; $r; };
+our $VERSION = '0.01';
 
 1;
 __END__

@@ -13,7 +13,7 @@ use base qw(Net::Plazes::Base);
 use Net::Plazes::User;
 use Net::Plazes::Plaze;
 
-our $VERSION = do { my ($r) = q$Revision: 2662 $ =~ /(\d+)/mx; $r; };
+our $VERSION = '0.01';
 
 __PACKAGE__->mk_accessors(fields());
 __PACKAGE__->has_many();
@@ -71,6 +71,14 @@ $Revision$
 =head2 fields - list of accessors for resources of this type
 
  my @aFields = $oObj->fields();
+
+=head2 user - Net::Plazes::User representing the user for the user_id in this presense
+
+ my $oUser = $oPresense->user();
+
+=head2 plaze - Net::Plazes::Plaze representing the plaze for the plaze_id in this presense
+
+ my $oPlaze = $oPresense->plaze();
 
 =head1 DIAGNOSTICS
 

@@ -64,36 +64,14 @@ sub requests_redirectable {
 sub content {
   my $self = shift;
 
-  my $test_data = $self->{mock}->{$self->{uri}};
+  #########
+  # try and auto-fetch out of the t/data/ folder
+  #
+  my ($plpath)  = $self->{uri} =~ m{https?://plazes\.net(.*)$}mx;
+  my $test_data = qq[t/data$plpath.xml];
 
-  if(!$test_data) {
-    #########
-    # try and auto-fetch out of the t/data/ folder
-    #
-    my ($stpath)  = $self->{uri} =~ m{https?://psd\-[^/]+(.*?)$}mx;
-    my ($npgpath) = $self->{uri} =~ m{https?://intweb.*npg[^/]*?(.*?)$}mx;
-
-    if($npgpath) {
-      #########
-      # some npg requests have ugly suffixes
-      #
-      $npgpath =~ s/_xml//mx;
-
-      if($self->last_request() &&
-	 $self->last_request->method() ne 'GET') {
-	$npgpath .= q[-] . uc $self->last_request->method();
-      }
-    }
-
-    if($stpath && -e "t/data/st$stpath.xml") {
-      $test_data = "t/data/st$stpath.xml";
-
-    } elsif($npgpath && -e "t/data/npg$npgpath.xml") {
-      $test_data = "t/data/npg$npgpath.xml";
-
-    } else {
-      croak qq(No mock data configured for $self->{'uri'});
-    }
+  if(!-e $test_data) {
+    croak qq(No mock data configured for '$test_data');
   }
 
   if($test_data =~ m|^t/|mx) {

@@ -11,13 +11,13 @@ use strict;
 use warnings;
 use base qw(Net::Plazes::Base);
 
-our $VERSION = do { my ($r) = q$Revision: 2662 $ =~ /(\d+)/mx; $r; };
+our $VERSION = '0.01';
 
 __PACKAGE__->mk_accessors(fields());
 __PACKAGE__->has_many();
 
 sub service {
-  return q[http://plazes.com/users];
+  return q[http://plazes.net/users];
 }
 
 sub fields {
