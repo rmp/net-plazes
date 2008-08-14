@@ -12,6 +12,7 @@ use warnings;
 use base qw(Net::Plazes::Base);
 use Net::Plazes::User;
 use Net::Plazes::Plaze;
+use Carp;
 
 our $VERSION = '0.01';
 
@@ -26,26 +27,61 @@ sub fields {
   return qw(id created_at device plaze_id scheduled_at status updated_at user_id);
 }
 
+sub process_dom {
+  my ($self, $obj, $dom) = @_;
+  $self->SUPER::process_dom($obj, $dom);
+
+  my $plz_els = $dom->getElementsByTagName('plaze');
+  if($plz_els) {
+    my $el = $plz_els->[0];
+    if($el) {
+      my $plaze = Net::Plazes::Plaze->new({
+					   usergent => $self->useragent(),
+					  });
+      $obj->{plaze} = $plaze->process_dom($plaze, $el);
+    }
+  }
+
+  my $usr_els = $dom->getElementsByTagName('user');
+  if($usr_els) {
+    my $el = $usr_els->[0];
+    if($el) {
+      my $user = Net::Plazes::User->new({
+					 usergent => $self->useragent(),
+					});
+      $obj->{user} = $user->process_dom($user, $el);
+    }
+  }
+
+  return $obj;
+}
+
 sub user {
   my $self = shift;
+
   if(!$self->{user}) {
-    $self->{user} = Net::Plazes::User->new({
-					    useragent => $self->useragent(),
-					    id        => $self->user_id(),
-					   });
+    $self->read();
+    $self->{user} ||= Net::Plazes::User->new({
+					      useragent => $self->useragent(),
+					      id        => $self->user_id(),
+					     });
   }
+
   return $self->{user};
 }
 
 sub plaze {
   my $self = shift;
-  if(!$self->{user}) {
-    $self->{user} = Net::Plazes::Plaze->new({
-					     useragent => $self->useragent(),
-					     id        => $self->plaze_id(),
-					    });
+
+  if(!$self->{plaze}) {
+    $self->read();
+    $self->{plaze} ||= Net::Plazes::Plaze->new({
+						useragent => $self->useragent(),
+						id        => $self->plaze_id(),
+					       });
   }
-  return $self->{user};
+
+  return $self->{plaze};
 }
 
 
@@ -79,6 +115,10 @@ $Revision$
 =head2 plaze - Net::Plazes::Plaze representing the plaze for the plaze_id in this presense
 
  my $oPlaze = $oPresense->plaze();
+
+=head2 process_dom - Additional internal DOM processing to pull in presence.plaze and presence.user
+
+ $oPlaze->process_dom();
 
 =head1 DIAGNOSTICS
 
