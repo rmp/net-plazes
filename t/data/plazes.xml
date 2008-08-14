@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plazes type="array">
+  <plaze>
+    <address>G&#252;rtel</address>
+    <category>club</category>
+    <city>Wien</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2008-05-16T21:30:41Z</created_at>
+    <id type="integer">60501535</id>
+    <name>Einbaumoebel</name>
+    <state></state>
+    <timezone>Europe/Vienna</timezone>
+    <updated_at type="datetime">2008-05-16T21:30:41Z</updated_at>
+    <zip_code nil="true"></zip_code>
+    <latitude type="float">48.2361960085728</latitude>
+    <longitude type="float">16.360540508864</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address>Prater Hauptallee</address>
+    <category>club</category>
+    <city>Wien</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2008-05-25T08:04:06Z</created_at>
+    <id type="integer">60501536</id>
+    <name>Tennisclub Achatzi</name>
+    <state></state>
+    <timezone>Europe/Vienna</timezone>
+    <updated_at type="datetime">2008-05-25T08:04:06Z</updated_at>
+    <zip_code>1020</zip_code>
+    <latitude type="float">48.1387004726597</latitude>
+    <longitude type="float">16.3185209216863</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>theater</category>
+    <city>Hunter River</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-06-02T18:34:56Z</created_at>
+    <id type="integer">60501537</id>
+    <name>Harmony House</name>
+    <state>PE</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-06-02T18:34:57Z</updated_at>
+    <zip_code>C0A 1N0</zip_code>
+    <latitude type="float">46.3569759340464</latitude>
+    <longitude type="float">-63.348457378879</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>Bygmestervej 2</address>
+    <category>restaurant</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-18T19:34:43Z</created_at>
+    <id type="integer">60501538</id>
+    <name>Tribeca NV</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-18T19:34:43Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.7064484577976</latitude>
+    <longitude type="float">12.5347646456767</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Teglbr&#230;ndervej 6</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T11:08:01Z</created_at>
+    <id type="integer">60501539</id>
+    <name>Test</name>
+    <state>NV</state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T11:08:01Z</updated_at>
+    <zip_code>2400</zip_code>
+    <latitude type="float">55.7070593649511</latitude>
+    <longitude type="float">12.5364263468424</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>N&#248;rrebrogade 216</address>
+    <category>other</category>
+    <city>Copenhaden</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T11:12:18Z</created_at>
+    <id type="integer">60501540</id>
+    <name>Boys Shawarma og Isbar</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T11:12:18Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.6991349582957</latitude>
+    <longitude type="float">12.5415314481555</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>N&#248;rrebrogade 216</address>
+    <category>other</category>
+    <city>Copenhaden</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T11:13:27Z</created_at>
+    <id type="integer">60501541</id>
+    <name>Boys Shawarma og Isbar</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T11:13:27Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.6991349582957</latitude>
+    <longitude type="float">12.5415314481555</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>N&#248;rrebrogade 209 </address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T11:18:14Z</created_at>
+    <id type="integer">60501542</id>
+    <name>Fona</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T11:18:14Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.6985438070035</latitude>
+    <longitude type="float">12.5423924517983</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Mimersgade 124</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T11:21:03Z</created_at>
+    <id type="integer">60501543</id>
+    <name>Fotex</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T11:21:03Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.7011779362333</latitude>
+    <longitude type="float">12.538567174198</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Tagensvej 47</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T15:17:02Z</created_at>
+    <id type="integer">60501544</id>
+    <name>Netto</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T15:17:02Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.700011886681</latitude>
+    <longitude type="float">12.5530415762151</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Reventlowsgade 11. </address>
+    <category>shop</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-19T15:19:52Z</created_at>
+    <id type="integer">60501545</id>
+    <name>Kobenhavns cykler</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-19T15:19:53Z</updated_at>
+    <zip_code>1651</zip_code>
+    <latitude type="float">55.6715269717841</latitude>
+    <longitude type="float">12.5642740118769</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Stefansgade 15</address>
+    <category>coffee_shop</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-21T14:57:43Z</created_at>
+    <id type="integer">60501549</id>
+    <name>Riccos</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-21T14:57:43Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.6957939031518</latitude>
+    <longitude type="float">12.5441477990843</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Dyrehavevej 1</address>
+    <category>other</category>
+    <city>Klampenborg</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-21T13:23:53Z</created_at>
+    <id type="integer">60501548</id>
+    <name>Klampenborg Station</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-21T14:59:27Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.7772367043195</latitude>
+    <longitude type="float">12.5872428785684</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>landmark</category>
+    <city>Klampenborg</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-21T11:36:57Z</created_at>
+    <id type="integer">60501547</id>
+    <name>J&#230;gersborg Dyrehave</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-21T15:02:20Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.7776232978348</latitude>
+    <longitude type="float">12.5906011378183</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Fredrik Bajers Plads</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-21T01:41:04Z</created_at>
+    <id type="integer">60501546</id>
+    <name>Fredrik Bajers Plads</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-21T15:04:14Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.6963020714056</latitude>
+    <longitude type="float">12.5614943270039</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>J&#230;gersborggade 10</address>
+    <category>coffee_shop</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-22T08:03:45Z</created_at>
+    <id type="integer">60501550</id>
+    <name>The Coffee Collective</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-22T08:03:45Z</updated_at>
+    <zip_code>2200</zip_code>
+    <latitude type="float">55.6919459674544</latitude>
+    <longitude type="float">12.5449048384562</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>R&#229;dhuspladsen 59</address>
+    <category>movie_theater</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-22T10:04:29Z</created_at>
+    <id type="integer">60501551</id>
+    <name>Gloria Biograf</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-22T10:04:29Z</updated_at>
+    <zip_code>1550</zip_code>
+    <latitude type="float">55.6758334000297</latitude>
+    <longitude type="float">12.5707479424827</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Mikkel Bryggers Gade 8</address>
+    <category>movie_theater</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-22T10:10:17Z</created_at>
+    <id type="integer">60501552</id>
+    <name>Grand Teatret</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-22T10:10:17Z</updated_at>
+    <zip_code>1460</zip_code>
+    <latitude type="float">55.676441215951</latitude>
+    <longitude type="float">12.5712370225332</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Frederikssundsvej 52</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-23T12:31:59Z</created_at>
+    <id type="integer">60501553</id>
+    <name>Danske Bank</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-23T12:31:59Z</updated_at>
+    <zip_code>2400</zip_code>
+    <latitude type="float">55.7029826956182</latitude>
+    <longitude type="float">12.5303371076552</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Bl&#229;g&#229;rdsgade 2</address>
+    <category>shop</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-24T11:42:58Z</created_at>
+    <id type="integer">60501554</id>
+    <name>Frogeye</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-24T11:43:12Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.6880789850251</latitude>
+    <longitude type="float">12.5599699934324</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>home</category>
+    <city>COPENHAGEN</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-28T07:53:34Z</created_at>
+    <id type="integer">60501555</id>
+    <name>DELETED</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-28T07:56:23Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.6762739056872</latitude>
+    <longitude type="float">12.5692671357899</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>4100 E. Mexico Ave.</address>
+    <category>restaurant</category>
+    <city>Denver</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-06-28T08:21:01Z</created_at>
+    <id type="integer">60501556</id>
+    <name>Village Inn at Colorado and Mexico, Denver, CO</name>
+    <state>CO</state>
+    <timezone>America/Denver</timezone>
+    <updated_at type="datetime">2008-06-28T08:24:42Z</updated_at>
+    <zip_code>80222</zip_code>
+    <latitude type="float">39.6856687353559</latitude>
+    <longitude type="float">-104.939492755009</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>18 N&#195;&#184;rrebrogade</address>
+    <category>other</category>
+    <city>K&#195;&#184;benhavn</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-28T08:41:01Z</created_at>
+    <id type="integer">60501557</id>
+    <name>FA&#174;ctiA&#184;ntal PlaA&#167;e with UTF8</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-28T08:41:01Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.6762739056872</latitude>
+    <longitude type="float">12.5692671357899</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>Amagertorv 1</address>
+    <category>other</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2008-06-28T12:08:28Z</created_at>
+    <id type="integer">60501558</id>
+    <name>Cafe Europa</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-06-28T12:08:28Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">55.6789762894993</latitude>
+    <longitude type="float">12.5796445023716</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>1475 Lower Water Street</address>
+    <category>other</category>
+    <city>Halifax</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-07-05T13:53:42Z</created_at>
+    <id type="integer">60501559</id>
+    <name>Caffe Ristretto</name>
+    <state>NS</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-07-05T13:53:42Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">44.6436087418575</latitude>
+    <longitude type="float">-63.5694732786914</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>1149 Marginal Road</address>
+    <category>landmark</category>
+    <city>Halifax</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-07-06T13:49:31Z</created_at>
+    <id type="integer">60501560</id>
+    <name>Garrison Brewing Company</name>
+    <state>NS</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-07-06T14:15:29Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">44.6408181058506</latitude>
+    <longitude type="float">-63.5670810672932</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>Husemannstrasse 7</address>
+    <category>home</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2008-07-06T17:09:21Z</created_at>
+    <id type="integer">60501561</id>
+    <name>Martin Springer</name>
+    <state>Germany</state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-07-06T17:09:21Z</updated_at>
+    <zip_code>10435</zip_code>
+    <latitude type="float">52.537410757764</latitude>
+    <longitude type="float">13.4174143078581</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>1546 Queen Street</address>
+    <category>restaurant</category>
+    <city>Halifax</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-07-07T13:26:39Z</created_at>
+    <id type="integer">60501562</id>
+    <name>Chabaa Thai Restaurant</name>
+    <state>NS</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-07-07T13:26:39Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">44.6441669779268</latitude>
+    <longitude type="float">-63.5771351566146</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>1475 Lower Water Street</address>
+    <category>coffee_shop</category>
+    <city>Halifax</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-07-07T13:33:15Z</created_at>
+    <id type="integer">60501563</id>
+    <name>Caffe Ristretto</name>
+    <state>NS</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-07-07T13:33:15Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">44.6436087418575</latitude>
+    <longitude type="float">-63.5694732786914</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>949 Long River Road</address>
+    <category>other</category>
+    <city>Long River</city>
+    <country_code>CA</country_code>
+    <created_at type="datetime">2008-07-25T21:34:57Z</created_at>
+    <id type="integer">60501565</id>
+    <name>The Kitchen Witch</name>
+    <state>PE</state>
+    <timezone>America/Halifax</timezone>
+    <updated_at type="datetime">2008-07-26T14:22:44Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">46.4922730553393</latitude>
+    <longitude type="float">-63.5441657000135</longitude>
+    <country>Canada</country>
+  </plaze>
+  <plaze>
+    <address>161 Broadway</address>
+    <category>shop</category>
+    <city>Somerville</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-07-26T15:22:33Z</created_at>
+    <id type="integer">60501566</id>
+    <name>The Dutch Bicycle Company</name>
+    <state>MA</state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2008-07-26T15:22:33Z</updated_at>
+    <zip_code>02145</zip_code>
+    <latitude type="float">42.3886407133619</latitude>
+    <longitude type="float">-71.0857503093439</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>233 Cardinal Medeiros Avenue</address>
+    <category>restaurant</category>
+    <city>Cambridge</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-07-28T18:42:27Z</created_at>
+    <id type="integer">60501567</id>
+    <name>Hungry Mother</name>
+    <state>MA</state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2008-07-28T18:42:27Z</updated_at>
+    <zip_code>02141</zip_code>
+    <latitude type="float">42.3677396403492</latitude>
+    <longitude type="float">-71.0909478717203</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>10 Depot Square</address>
+    <category>other</category>
+    <city>Peterborough</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-08-01T23:08:45Z</created_at>
+    <id type="integer">60501568</id>
+    <name>Peterboro Diner</name>
+    <state>nh</state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2008-08-01T23:08:45Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">42.8765640768907</latitude>
+    <longitude type="float">-71.9493930311544</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Hanover Street</address>
+    <category>other</category>
+    <city>Boston</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-08-02T12:43:35Z</created_at>
+    <id type="integer">60501569</id>
+    <name>Caffe Dello Sport</name>
+    <state>MA</state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2008-08-02T12:43:35Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">42.3639272101225</latitude>
+    <longitude type="float">-71.0543593581279</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>hotel</category>
+    <city>Louisbourg</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2008-08-06T11:54:34Z</created_at>
+    <id type="integer">60501570</id>
+    <name>Peck's Housekeeping Cottages</name>
+    <state>NS</state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2008-08-06T11:54:34Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">36.101967447853</latitude>
+    <longitude type="float">-78.2988523285018</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>landmark</category>
+    <city>Greifenstein</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2008-08-08T19:59:04Z</created_at>
+    <id type="integer">60501571</id>
+    <name>Temp Festival</name>
+    <state></state>
+    <timezone>Europe/Ljubljana</timezone>
+    <updated_at type="datetime">2008-08-08T19:59:04Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">46.6106723955892</latitude>
+    <longitude type="float">14.4665090276276</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address>K&#246;lblgasse 21</address>
+    <category>shop</category>
+    <city>Vienna</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2008-08-11T10:14:05Z</created_at>
+    <id type="integer">60501572</id>
+    <name>Firma Singer</name>
+    <state></state>
+    <timezone>Europe/Vienna</timezone>
+    <updated_at type="datetime">2008-08-11T10:14:05Z</updated_at>
+    <zip_code>1030</zip_code>
+    <latitude type="float">48.1910060027879</latitude>
+    <longitude type="float">16.3888550066569</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address>8500 Pe&#241;a Boulevard</address>
+    <category>airport</category>
+    <city>Denver</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-02-15T21:08:49Z</created_at>
+    <id type="integer">21022</id>
+    <name>Denver International Airport</name>
+    <state></state>
+    <timezone>America/Denver</timezone>
+    <updated_at type="datetime">2007-05-02T01:14:48Z</updated_at>
+    <zip_code>80249</zip_code>
+    <latitude type="float">39.689829737855</latitude>
+    <longitude type="float">-104.94057224094</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Airport</address>
+    <category>airport</category>
+    <city>Frankfurt</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2004-12-07T07:59:12Z</created_at>
+    <id type="integer">2701</id>
+    <name>Frankfurt Airport / Lufthansa Lounge</name>
+    <state></state>
+    <timezone>Europe/Luxembourg</timezone>
+    <updated_at type="datetime">2006-12-29T15:37:59Z</updated_at>
+    <zip_code>60547</zip_code>
+    <latitude type="float">50.086205477661</latitude>
+    <longitude type="float">8.6452663408219</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Flughafen</address>
+    <category>airport</category>
+    <city>Frankfurt</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-01-22T09:08:58Z</created_at>
+    <id type="integer">19194</id>
+    <name>Flughafen Frankfurt</name>
+    <state></state>
+    <timezone>Europe/Luxembourg</timezone>
+    <updated_at type="datetime">2006-01-22T23:09:39Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">50.05666</latitude>
+    <longitude type="float">8.60894</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Madrid</city>
+    <country_code>ES</country_code>
+    <created_at type="datetime">2006-04-14T15:07:17Z</created_at>
+    <id type="integer">25600</id>
+    <name>Madrid Barajas T1</name>
+    <state></state>
+    <timezone>Europe/Madrid</timezone>
+    <updated_at type="datetime">2008-01-27T14:33:13Z</updated_at>
+    <zip_code>28042</zip_code>
+    <latitude type="float">40.473706178958</latitude>
+    <longitude type="float">-3.5804275091936</longitude>
+    <country>Spain</country>
+  </plaze>
+  <plaze>
+    <address>5757 Wayne Newton Boulevard</address>
+    <category>airport</category>
+    <city>Las Vegas</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-05-02T02:39:31Z</created_at>
+    <id type="integer">4290</id>
+    <name>McCarran International Airport</name>
+    <state></state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2007-05-26T21:32:50Z</updated_at>
+    <zip_code>89119</zip_code>
+    <latitude type="float">36.083757306732</latitude>
+    <longitude type="float">-115.14857357504</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>other</category>
+    <city>Irgendwo</city>
+    <country_code>CH</country_code>
+    <created_at type="datetime">2005-08-08T08:52:06Z</created_at>
+    <id type="integer">7168</id>
+    <name>unlimited mobile plaze</name>
+    <state></state>
+    <timezone>Europe/Zurich</timezone>
+    <updated_at type="datetime">2007-05-06T07:12:59Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">47.363762518564</latitude>
+    <longitude type="float">8.798689091783</longitude>
+    <country>Switzerland</country>
+  </plaze>
+  <plaze>
+    <address>Invaliden Str 117</address>
+    <category>office</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-07-28T15:36:56Z</created_at>
+    <id type="integer">6650</id>
+    <name>NOKIA gate5 GmbH</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-11-18T22:15:36Z</updated_at>
+    <zip_code>10115</zip_code>
+    <latitude type="float">52.530312848198</latitude>
+    <longitude type="float">13.385086655617</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>railway_station</category>
+    <city>Stockholm</city>
+    <country_code>SE</country_code>
+    <created_at type="datetime">2005-12-22T12:13:19Z</created_at>
+    <id type="integer">17387</id>
+    <name>SJ OnTrain Internet</name>
+    <state></state>
+    <timezone>Europe/Stockholm</timezone>
+    <updated_at type="datetime">2007-06-02T10:13:41Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">59.332160868266</latitude>
+    <longitude type="float">18.062420763782</longitude>
+    <country>Sweden</country>
+  </plaze>
+  <plaze>
+    <address>MONBIJOUPLATZ 5</address>
+    <category>office</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-05-18T17:08:09Z</created_at>
+    <id type="integer">87873</id>
+    <name>Plazes Berlin</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-03-05T17:09:48Z</updated_at>
+    <zip_code>10178</zip_code>
+    <latitude type="float">52.5235174997307</latitude>
+    <longitude type="float">13.3985621476876</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>RETORTVEJ 8</address>
+    <category>other</category>
+    <city>K&#216;BENHAVN</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2006-02-17T01:27:49Z</created_at>
+    <id type="integer">21096</id>
+    <name>VPN</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2008-04-15T08:14:49Z</updated_at>
+    <zip_code>2500</zip_code>
+    <latitude type="float">55.6571334824297</latitude>
+    <longitude type="float">12.5002532558706</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address>HEIDESTRASSE 14</address>
+    <category>club</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-03-03T01:16:08Z</created_at>
+    <id type="integer">70138</id>
+    <name>tape</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-01-07T16:32:44Z</updated_at>
+    <zip_code>10557</zip_code>
+    <latitude type="float">52.5294594611418</latitude>
+    <longitude type="float">13.3698034286499</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>DIRCKSENSTRASSE 40</address>
+    <category>club</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-08-10T21:13:00Z</created_at>
+    <id type="integer">115086</id>
+    <name>University of Bohannon</name>
+    <state nil="true"></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-02-14T18:33:58Z</updated_at>
+    <zip_code>10178</zip_code>
+    <latitude type="float">52.5234398871378</latitude>
+    <longitude type="float">13.4071904027983</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Sch&#246;nhauser Allee 34</address>
+    <category>bar</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-09-14T20:40:29Z</created_at>
+    <id type="integer">40302</id>
+    <name>NBI</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-06-10T09:39:40Z</updated_at>
+    <zip_code>10435</zip_code>
+    <latitude type="float">52.537613968907</latitude>
+    <longitude type="float">13.41245583001</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>KLEINE HAMBURGER STRASSE 16</address>
+    <category>restaurant</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-01-23T12:10:25Z</created_at>
+    <id type="integer">19266</id>
+    <name>Strandbad Mitte</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-12-23T16:02:20Z</updated_at>
+    <zip_code>10117</zip_code>
+    <latitude type="float">52.5273094235993</latitude>
+    <longitude type="float">13.3964816688913</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>GATEWAY GARDENS</address>
+    <category>airport</category>
+    <city>FRANKFURT AM MAIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-05-09T08:22:10Z</created_at>
+    <id type="integer">4416</id>
+    <name>Frankfurt Airport (FRA)</name>
+    <state></state>
+    <timezone>Europe/Luxembourg</timezone>
+    <updated_at type="datetime">2007-06-29T09:57:06Z</updated_at>
+    <zip_code>60549</zip_code>
+    <latitude type="float">50.0508</latitude>
+    <longitude type="float">8.57157</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Flughafen Schoenefeld</address>
+    <category>airport</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-03-24T20:12:02Z</created_at>
+    <id type="integer">23857</id>
+    <name>Berlin Sch&#246;nefeld Flughafen</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-05-05T01:36:17Z</updated_at>
+    <zip_code>12521</zip_code>
+    <latitude type="float">52.3886181938288</latitude>
+    <longitude type="float">13.5185050964355</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>5 Petaluma Blvd S</address>
+    <category>coffee_shop</category>
+    <city>Petaluma</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-01-03T17:26:23Z</created_at>
+    <id type="integer">2956</id>
+    <name>Peet's Coffee &amp; Tea</name>
+    <state>CA</state>
+    <timezone>America/Indiana/Vevay</timezone>
+    <updated_at type="datetime">2007-06-12T18:08:19Z</updated_at>
+    <zip_code>94952</zip_code>
+    <latitude type="float">38.05175925247</latitude>
+    <longitude type="float">-84.50308940451</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>M&#220;NZSTRASSE 23</address>
+    <category>club</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-02-14T20:12:01Z</created_at>
+    <id type="integer">66775</id>
+    <name>M&#252;nzsalon</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-02-18T09:18:25Z</updated_at>
+    <zip_code>10178</zip_code>
+    <latitude type="float">52.5249162219701</latitude>
+    <longitude type="float">13.4063046944808</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Wien Flughafen</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2006-02-05T11:43:58Z</created_at>
+    <id type="integer">20242</id>
+    <name>Vienna International Airport</name>
+    <state></state>
+    <timezone>Europe/Vienna</timezone>
+    <updated_at type="datetime">2007-12-20T09:28:59Z</updated_at>
+    <zip_code>1300</zip_code>
+    <latitude type="float">48.119837791031</latitude>
+    <longitude type="float">16.561846733093</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address>Rued Langgaards Vej 7</address>
+    <category>university</category>
+    <city>Copenhagen S</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2005-08-31T12:46:56Z</created_at>
+    <id type="integer">8977</id>
+    <name>ITU</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2007-04-24T20:09:22Z</updated_at>
+    <zip_code>2300</zip_code>
+    <latitude type="float">55.658978</latitude>
+    <longitude type="float">12.591072</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Gatwick</city>
+    <country_code>GB</country_code>
+    <created_at type="datetime">2005-06-10T09:45:03Z</created_at>
+    <id type="integer">5112</id>
+    <name>Gatwick Airport North Terminal</name>
+    <state></state>
+    <timezone>Europe/London</timezone>
+    <updated_at type="datetime">2005-06-10T09:46:18Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">51.1517</latitude>
+    <longitude type="float">-0.1784</longitude>
+    <country>United Kingdom</country>
+  </plaze>
+  <plaze>
+    <address>Flughafenstra&#223;e</address>
+    <category>airport</category>
+    <city>Hamburg</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2004-09-30T15:02:04Z</created_at>
+    <id type="integer">1425</id>
+    <name>Hamburg Airport (HAM)</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-01-20T19:38:51Z</updated_at>
+    <zip_code>22331</zip_code>
+    <latitude type="float">53.633493695438</latitude>
+    <longitude type="float">10.005369186401</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-01-11T14:59:20Z</created_at>
+    <id type="integer">18461</id>
+    <name>Flughafen Berlin Tegel, TXL</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-12-11T14:47:09Z</updated_at>
+    <zip_code>13405</zip_code>
+    <latitude type="float">52.5547505337481</latitude>
+    <longitude type="float">13.2900238037109</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Utrecht CS</address>
+    <category>railway_station</category>
+    <city>Utrecht</city>
+    <country_code>NL</country_code>
+    <created_at type="datetime">2005-06-16T19:03:56Z</created_at>
+    <id type="integer">5415</id>
+    <name>Station Utrecht Centraal</name>
+    <state>Utrecht</state>
+    <timezone>Europe/Amsterdam</timezone>
+    <updated_at type="datetime">2007-08-01T19:48:34Z</updated_at>
+    <zip_code>3511 CC</zip_code>
+    <latitude type="float">52.0896</latitude>
+    <longitude type="float">5.10997</longitude>
+    <country>Netherlands</country>
+  </plaze>
+  <plaze>
+    <address>Kleine-Gartmanplantsoen 10</address>
+    <category>theater</category>
+    <city>Amsterdam</city>
+    <country_code>NL</country_code>
+    <created_at type="datetime">2006-05-24T16:37:33Z</created_at>
+    <id type="integer">28822</id>
+    <name>De Balie</name>
+    <state></state>
+    <timezone>Europe/Amsterdam</timezone>
+    <updated_at type="datetime">2008-01-14T15:09:50Z</updated_at>
+    <zip_code>1017 RR</zip_code>
+    <latitude type="float">52.362823740254</latitude>
+    <longitude type="float">4.8834930189654</longitude>
+    <country>Netherlands</country>
+  </plaze>
+  <plaze>
+    <address>AUGUSTSTRASSE 5</address>
+    <category>office</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-07-27T09:19:53Z</created_at>
+    <id type="integer">111035</id>
+    <name>SoundCloud Office</name>
+    <state nil="true"></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-09-21T13:44:00Z</updated_at>
+    <zip_code>10117</zip_code>
+    <latitude type="float">52.5253538338895</latitude>
+    <longitude type="float">13.3921194076538</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Beim Strohhause 17</address>
+    <category>office</category>
+    <city>Hamburg</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2004-10-11T09:45:38Z</created_at>
+    <id type="integer">1744</id>
+    <name>IBM Hamburg</name>
+    <state>Hamburg</state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-06-27T19:55:14Z</updated_at>
+    <zip_code>20097</zip_code>
+    <latitude type="float">53.5532608058698</latitude>
+    <longitude type="float">10.0202608108521</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Do not enter a specific city please!</address>
+    <category>other</category>
+    <city>Switzerland</city>
+    <country_code>CH</country_code>
+    <created_at type="datetime">2006-02-15T18:45:30Z</created_at>
+    <id type="integer">21006</id>
+    <name>Public WLAN Hotspot</name>
+    <state></state>
+    <timezone>Europe/Zurich</timezone>
+    <updated_at type="datetime">2008-01-02T17:54:52Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">47.2242315394724</latitude>
+    <longitude type="float">8.81961822509766</longitude>
+    <country>Switzerland</country>
+  </plaze>
+  <plaze>
+    <address>MONBIJOUPLATZ 5</address>
+    <category>coffee_shop</category>
+    <city>berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-05-09T16:50:27Z</created_at>
+    <id type="integer">85709</id>
+    <name>Lavazza Cafe Bar</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-01-21T22:46:20Z</updated_at>
+    <zip_code>10178</zip_code>
+    <latitude type="float">52.523517499731</latitude>
+    <longitude type="float">13.398562147688</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Washingtonplatz</address>
+    <category>railway_station</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-05-29T16:28:33Z</created_at>
+    <id type="integer">29199</id>
+    <name>Berlin Hauptbahnhof DB Lounge</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-09-21T15:44:18Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">52.524342054403</latitude>
+    <longitude type="float">13.36985707283</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Rungestrasse 20</address>
+    <category>other</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-07-07T22:02:57Z</created_at>
+    <id type="integer">6079</id>
+    <name>c-base</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-12-05T14:57:22Z</updated_at>
+    <zip_code>10179</zip_code>
+    <latitude type="float">52.512897532451</latitude>
+    <longitude type="float">13.420550823212</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>ROSENTHALER PLATZ</address>
+    <category>coffee_shop</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-03-04T17:13:44Z</created_at>
+    <id type="integer">70414</id>
+    <name>Sankt Oberholz</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-11-22T20:58:50Z</updated_at>
+    <zip_code>10119</zip_code>
+    <latitude type="float">52.529685999666</latitude>
+    <longitude type="float">13.400957508296</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>6000 N Terminal Pkwy # 43</address>
+    <category>airport</category>
+    <city>Atlanta</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-09-25T02:57:22Z</created_at>
+    <id type="integer">41561</id>
+    <name>Hartsfield-Jackson Atlanta International Airport</name>
+    <state>Ga</state>
+    <timezone>America/Louisville</timezone>
+    <updated_at type="datetime">2007-12-31T03:25:34Z</updated_at>
+    <zip_code>30320</zip_code>
+    <latitude type="float">33.7085885475247</latitude>
+    <longitude type="float">-84.3828923759554</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>BRUNNENSTRASSE</address>
+    <category>home</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-07-27T00:16:03Z</created_at>
+    <id type="integer">34478</id>
+    <name>next to my *new new* plaze</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-03-22T18:57:33Z</updated_at>
+    <zip_code>10119-13355</zip_code>
+    <latitude type="float">52.539380029689</latitude>
+    <longitude type="float">13.394946310881</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Newark</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-03-08T17:32:30Z</created_at>
+    <id type="integer">3536</id>
+    <name>Newark Airport - Terminal C</name>
+    <state></state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2007-04-19T22:42:14Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">40.723269646291</latitude>
+    <longitude type="float">-74.17514</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Terminal 1, Concourse C</address>
+    <category>airport</category>
+    <city>CHICAGO</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-11-30T23:29:01Z</created_at>
+    <id type="integer">51480</id>
+    <name>O'Hare International Airport, Chicago</name>
+    <state></state>
+    <timezone>America/Chicago</timezone>
+    <updated_at type="datetime">2007-09-12T10:04:46Z</updated_at>
+    <zip_code>60666</zip_code>
+    <latitude type="float">41.978379564142</latitude>
+    <longitude type="float">-87.902641296387</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Am Flutgraben</address>
+    <category>bar</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-04-14T19:00:34Z</created_at>
+    <id type="integer">79917</id>
+    <name>Club der Vision&#228;re</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-04-25T17:41:54Z</updated_at>
+    <zip_code>12435</zip_code>
+    <latitude type="float">52.496786586347</latitude>
+    <longitude type="float">13.450398445129</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>falckensteinstr. 49</address>
+    <category>club</category>
+    <city>berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2004-08-10T17:57:51Z</created_at>
+    <id type="integer">506</id>
+    <name>watergate club</name>
+    <state>berlin</state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-04-29T18:16:16Z</updated_at>
+    <zip_code>10997</zip_code>
+    <latitude type="float">52.501032037683</latitude>
+    <longitude type="float">13.445270061493</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Z&#252;rich-Flughafen</city>
+    <country_code>CH</country_code>
+    <created_at type="datetime">2006-09-19T13:14:48Z</created_at>
+    <id type="integer">40836</id>
+    <name>Flughafen Z&#252;rich</name>
+    <state></state>
+    <timezone>Europe/Zurich</timezone>
+    <updated_at type="datetime">2007-01-26T20:29:42Z</updated_at>
+    <zip_code>8058</zip_code>
+    <latitude type="float">47.450524890376</latitude>
+    <longitude type="float">8.5615146160126</longitude>
+    <country>Switzerland</country>
+  </plaze>
+  <plaze>
+    <address>Regent Street</address>
+    <category>shop</category>
+    <city>London</city>
+    <country_code>GB</country_code>
+    <created_at type="datetime">2007-03-15T18:11:35Z</created_at>
+    <id type="integer">73271</id>
+    <name>Apple Store London</name>
+    <state></state>
+    <timezone>Europe/London</timezone>
+    <updated_at type="datetime">2008-03-26T08:55:45Z</updated_at>
+    <zip_code>W1B 2ET</zip_code>
+    <latitude type="float">51.488591447533</latitude>
+    <longitude type="float">-0.28254569992195</longitude>
+    <country>United Kingdom</country>
+  </plaze>
+  <plaze>
+    <address>767 Fifth Ave</address>
+    <category>shop</category>
+    <city>New York</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-05-28T20:00:28Z</created_at>
+    <id type="integer">29120</id>
+    <name>Apple Store 5th Ave.</name>
+    <state></state>
+    <timezone>America/New_York</timezone>
+    <updated_at type="datetime">2007-11-27T12:03:58Z</updated_at>
+    <zip_code>10153</zip_code>
+    <latitude type="float">40.764132874139</latitude>
+    <longitude type="float">-73.973527550697</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>OHARE</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2007-01-05T13:54:36Z</created_at>
+    <id type="integer">59299</id>
+    <name>Chicago O'Hare Airport</name>
+    <state></state>
+    <timezone>America/Chicago</timezone>
+    <updated_at type="datetime">2007-01-05T13:58:36Z</updated_at>
+    <zip_code>60666</zip_code>
+    <latitude type="float">41.978755804316</latitude>
+    <longitude type="float">-87.902591676782</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>7000 NE AIRPORT WAY</address>
+    <category>airport</category>
+    <city>PORTLAND</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-10-26T15:05:30Z</created_at>
+    <id type="integer">13518</id>
+    <name>Portland International Airport (PDX)</name>
+    <state></state>
+    <timezone>America/Vancouver</timezone>
+    <updated_at type="datetime">2007-10-15T18:05:45Z</updated_at>
+    <zip_code>97218</zip_code>
+    <latitude type="float">45.586709805597</latitude>
+    <longitude type="float">-122.58667452674</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>Oberding</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-06-21T19:48:29Z</created_at>
+    <id type="integer">5629</id>
+    <name>Munich Airport, Terminal 2</name>
+    <state></state>
+    <timezone>Europe/Zurich</timezone>
+    <updated_at type="datetime">2006-11-01T14:36:49Z</updated_at>
+    <zip_code>85445</zip_code>
+    <latitude type="float">48.353511312557</latitude>
+    <longitude type="float">11.780776977539</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>university</category>
+    <city>Stanford</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-06-20T20:36:24Z</created_at>
+    <id type="integer">5582</id>
+    <name>Stanford Campus</name>
+    <state>CA</state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2006-07-27T20:18:24Z</updated_at>
+    <zip_code>94305</zip_code>
+    <latitude type="float">37.431386695979</latitude>
+    <longitude type="float">-122.16896453923</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>5503 West Spruce St</address>
+    <category>airport</category>
+    <city>Tampa</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-09-06T23:59:10Z</created_at>
+    <id type="integer">9392</id>
+    <name>Tampa Airport</name>
+    <state></state>
+    <timezone>America/Louisville</timezone>
+    <updated_at type="datetime">2007-05-06T01:29:01Z</updated_at>
+    <zip_code>33607</zip_code>
+    <latitude type="float">27.960038311073</latitude>
+    <longitude type="float">-82.534136919677</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>EINFAHRTSSTRASSE</address>
+    <category>airport</category>
+    <city>SCHWECHAT</city>
+    <country_code>AT</country_code>
+    <created_at type="datetime">2007-04-11T17:40:17Z</created_at>
+    <id type="integer">79208</id>
+    <name>Vienna International Airport</name>
+    <state></state>
+    <timezone>Europe/Vienna</timezone>
+    <updated_at type="datetime">2007-05-30T06:11:06Z</updated_at>
+    <zip_code>1300</zip_code>
+    <latitude type="float">48.122977886133</latitude>
+    <longitude type="float">16.560313044714</longitude>
+    <country>Austria</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>airport</category>
+    <city>BARCELONA</city>
+    <country_code>ES</country_code>
+    <created_at type="datetime">2006-01-27T22:33:43Z</created_at>
+    <id type="integer">19649</id>
+    <name>Barcelona Aeroport El Prat de Llobregat [BCN]</name>
+    <state></state>
+    <timezone>Europe/Andorra</timezone>
+    <updated_at type="datetime">2008-05-05T00:59:12Z</updated_at>
+    <zip_code>08001-08908</zip_code>
+    <latitude type="float">41.4183973574255</latitude>
+    <longitude type="float">2.14117634542901</longitude>
+    <country>Spain</country>
+  </plaze>
+  <plaze>
+    <address>AM WRIEZENER BAHNHOF</address>
+    <category>club</category>
+    <city>BERLIN</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-11-25T08:52:25Z</created_at>
+    <id type="integer">50523</id>
+    <name>Panoramabar</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-11-09T15:32:46Z</updated_at>
+    <zip_code>10243</zip_code>
+    <latitude type="float">52.511154151975</latitude>
+    <longitude type="float">13.443049192429</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Alexanderplatz</address>
+    <category>club</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-12-02T06:07:33Z</created_at>
+    <id type="integer">15985</id>
+    <name>Weekend</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-08-28T12:17:23Z</updated_at>
+    <zip_code></zip_code>
+    <latitude type="float">52.52282760543</latitude>
+    <longitude type="float">13.41628074646</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>655 High Street</address>
+    <category>office</category>
+    <city>Palo Alto</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2005-08-02T18:37:29Z</created_at>
+    <id type="integer">6931</id>
+    <name>Socialtext Headquarters</name>
+    <state>CA</state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2005-08-02T18:39:29Z</updated_at>
+    <zip_code>94301</zip_code>
+    <latitude type="float">37.442809664454</latitude>
+    <longitude type="float">-122.16134</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Istedgade 130</address>
+    <category>coffee_shop</category>
+    <city>Copenhagen</city>
+    <country_code>DK</country_code>
+    <created_at type="datetime">2005-06-16T13:08:58Z</created_at>
+    <id type="integer">5395</id>
+    <name>Bang &amp; Jensen</name>
+    <state></state>
+    <timezone>Europe/Copenhagen</timezone>
+    <updated_at type="datetime">2007-05-30T14:59:20Z</updated_at>
+    <zip_code>1650</zip_code>
+    <latitude type="float">55.668080294243</latitude>
+    <longitude type="float">12.549549548125</longitude>
+    <country>Denmark</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>conference</category>
+    <city>SAN FRANCISCO</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2007-04-15T17:10:24Z</created_at>
+    <id type="integer">80125</id>
+    <name>Moscone West San Francisco</name>
+    <state></state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2007-04-17T19:54:26Z</updated_at>
+    <zip_code>CA</zip_code>
+    <latitude type="float">37.783180468689</latitude>
+    <longitude type="float">-122.4035525322</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Flughafenstra&#223;e 120</address>
+    <category>airport</category>
+    <city>D&#252;sseldorf</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-03-17T13:56:05Z</created_at>
+    <id type="integer">23302</id>
+    <name>D&#252;sseldorf Airport</name>
+    <state></state>
+    <timezone>Europe/Amsterdam</timezone>
+    <updated_at type="datetime">2007-11-27T15:06:33Z</updated_at>
+    <zip_code>40474</zip_code>
+    <latitude type="float">51.2753483049</latitude>
+    <longitude type="float">6.7661788525226</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>1206 Masonic Avenue</address>
+    <category>coffee_shop</category>
+    <city>San Francisco</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-02-25T01:37:00Z</created_at>
+    <id type="integer">21708</id>
+    <name>Coffee to the People</name>
+    <state></state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2007-01-08T23:58:57Z</updated_at>
+    <zip_code>94117</zip_code>
+    <latitude type="float">37.77014406722</latitude>
+    <longitude type="float">-122.44534985644</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>6000 N Terminal Pkwy # 43</address>
+    <category>airport</category>
+    <city>Atlanta</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2004-11-03T13:42:23Z</created_at>
+    <id type="integer">2278</id>
+    <name>Hartsfield-Jackson International Airport</name>
+    <state>GA</state>
+    <timezone>America/Louisville</timezone>
+    <updated_at type="datetime">2007-09-12T10:29:06Z</updated_at>
+    <zip_code>Atlanta, GA 30320</zip_code>
+    <latitude type="float">33.6080430579458</latitude>
+    <longitude type="float">-84.4038391113281</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address></address>
+    <category>coffee_shop</category>
+    <city>NEW YORK</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-12-16T13:08:21Z</created_at>
+    <id type="integer">55230</id>
+    <name>Starbucks</name>
+    <state>NY</state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2007-08-16T10:06:23Z</updated_at>
+    <zip_code>07064-11697</zip_code>
+    <latitude type="float">40.714512455356</latitude>
+    <longitude type="float">-74.0071391781288</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>Flughafen</address>
+    <category>airport</category>
+    <city>Leinfelden</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2005-03-23T05:59:35Z</created_at>
+    <id type="integer">3781</id>
+    <name>Stuttgart Airport (STR)</name>
+    <state>Baden-W&#252;rttemberg</state>
+    <timezone>Europe/Zurich</timezone>
+    <updated_at type="datetime">2007-09-21T08:27:14Z</updated_at>
+    <zip_code>70629</zip_code>
+    <latitude type="float">48.68999718602</latitude>
+    <longitude type="float">9.1930997371674</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Tucholskystrasse 48</address>
+    <category>other</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2006-01-24T15:19:18Z</created_at>
+    <id type="integer">19347</id>
+    <name>newthinking network</name>
+    <state>Berlin</state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2006-10-16T21:14:10Z</updated_at>
+    <zip_code>10117</zip_code>
+    <latitude type="float">52.527490138114</latitude>
+    <longitude type="float">13.392925704272</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>1026 Valencia Street</address>
+    <category>restaurant</category>
+    <city>San Francisco</city>
+    <country_code>US</country_code>
+    <created_at type="datetime">2006-08-31T00:46:30Z</created_at>
+    <id type="integer">38549</id>
+    <name>Ritual Roasters</name>
+    <state></state>
+    <timezone>America/Los_Angeles</timezone>
+    <updated_at type="datetime">2007-04-02T23:10:13Z</updated_at>
+    <zip_code>94110</zip_code>
+    <latitude type="float">37.756465475592</latitude>
+    <longitude type="float">-122.42107515468</longitude>
+    <country>United States</country>
+  </plaze>
+  <plaze>
+    <address>BP 2010</address>
+    <category>airport</category>
+    <city>Paris</city>
+    <country_code>FR</country_code>
+    <created_at type="datetime">2006-09-15T18:14:02Z</created_at>
+    <id type="integer">40403</id>
+    <name>Paris Roissy Charles de Gaulle Airport</name>
+    <state></state>
+    <timezone>Europe/Paris</timezone>
+    <updated_at type="datetime">2007-07-14T12:02:49Z</updated_at>
+    <zip_code>95711</zip_code>
+    <latitude type="float">49.008150004997</latitude>
+    <longitude type="float">2.57080078125</longitude>
+    <country>France</country>
+  </plaze>
+  <plaze>
+    <address>Dorotheenstr. 90</address>
+    <category>club</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2007-01-14T01:52:06Z</created_at>
+    <id type="integer">60699</id>
+    <name>Picknick</name>
+    <state></state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2008-02-01T15:58:29Z</updated_at>
+    <zip_code>10117</zip_code>
+    <latitude type="float">52.5184406309904</latitude>
+    <longitude type="float">13.382785320282</longitude>
+    <country>Germany</country>
+  </plaze>
+  <plaze>
+    <address>Flughafen Tegel</address>
+    <category>airport</category>
+    <city>Berlin</city>
+    <country_code>DE</country_code>
+    <created_at type="datetime">2004-08-11T05:43:51Z</created_at>
+    <id type="integer">512</id>
+    <name>Berlin Tegel Airport</name>
+    <state>Berlin</state>
+    <timezone>Europe/Berlin</timezone>
+    <updated_at type="datetime">2007-12-17T08:20:56Z</updated_at>
+    <zip_code>13405</zip_code>
+    <latitude type="float">52.5543852349903</latitude>
+    <longitude type="float">13.2903173446655</longitude>
+    <country>Germany</country>
+  </plaze>
+</plazes>
