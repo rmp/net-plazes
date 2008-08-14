@@ -5,7 +5,7 @@ use Module::Build;
 my $builder = Module::Build->new(
 				 module_name         => 'Net::Plazes',
 				 dist_author         => 'Roger M Pettett <rpettett@cpan.org>',
-				 dist_version        => '0.01',
+				 dist_version        => '0.02',
 				 dist_abstract       => q[Net::Plazes - An interface to Plazes.net services],
 				 license             => 'perl',
 				 requires            => {
